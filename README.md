@@ -2,13 +2,6 @@
 
 ### 👋 Hello, world!
 
-### Projects
-
-[![Checkers](https://github.com/onicat/onicat/blob/main/images/project-preview-1.png)](https://github.com/onicat/react-checkers)
-[![Minesweeper](https://github.com/onicat/onicat/blob/main/images/project-preview-2.png)](https://github.com/onicat/react-minesweeper)
-[![Videoplayer](https://github.com/onicat/onicat/blob/main/images/project-preview-3.png)](https://github.com/onicat/react-videoplayer)
-[![Minesweeper](https://github.com/onicat/onicat/blob/main/images/project-preview-4.png)](https://github.com/onicat/vue-minesweeper)
-
 ### 🛠️ Technologies & tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?logo=html5)
