@@ -18,5 +18,4 @@
 ### 📈 Statistics
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=onicat&layout=compact&bg_color=1d1f21&title_color=0099ff&text_color=EBEBEB)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onicat&layout=compact&bg_color=1d1f21&title_color=0099ff&text_color=EBEBEB)](https://github.com/anuraghazra/github-readme-stats)
