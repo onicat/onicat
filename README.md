@@ -8,6 +8,7 @@
 ![React](https://img.shields.io/badge/-React-1d1f21?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-1d1f21?style=flat-square&logo=redux)
 ![Vue](https://img.shields.io/badge/-Vue-1d1f21?style=flat-square&logo=vue.js)
+![Vuex](https://img.shields.io/badge/-Vue-1d1f21?style=flat-square&logo=vue.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1d1f21?style=flat-square&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-1d1f21?style=flat-square&logo=git)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-1d1f21?style=flat-square&logo=material-ui)
